@@ -1,1 +1,2 @@
 # Deep_Learning_Neural_Networks
+When building the neural network, I tried a several different strategies. I tried a network with one hidden layer with 4, 6, 7, and 8 neurons with relu and sigmoid activation functions. I also tried two hidden layers with 8 and 4, 6 and 4, and 8 and 5 neurons with a combination of different activation functions in the hidden layers and the output layer. The best accuracy I achieved was 58%. If I was to choose a different model, I would try some of the simpler models like random tree. 
